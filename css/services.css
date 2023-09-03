@@ -1,0 +1,73 @@
+.service-36 {
+  font-family: "Montserrat", sans-serif;
+  color: #8d97ad;
+  font-weight: 300;
+}
+
+.service-36 h1,
+.service-36 h2,
+.service-36 h3,
+.service-36 h4,
+.service-36 h5,
+.service-36 h6 {
+  color: #3e4555;
+}
+
+.service-36 .bg-light {
+  background-color: #f4f8fa !important;
+}
+
+.service-36 .subtitle {
+  color: #8d97ad;
+  line-height: 24px;
+}
+
+.service-36.wrap-service36-box {
+  background-position: right top;
+  background-repeat: no-repeat;
+}
+
+.service-36 .bg-success-gradiant {
+  background: #2cdd9b;
+  background: -webkit-linear-gradient(legacy-direction(to right), #2cdd9b 0%, #1dc8cc 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#2cdd9b), to(#1dc8cc));
+  background: -webkit-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+  background: -o-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+  background: linear-gradient(to right, #2cdd9b 0%, #1dc8cc 100%);
+}
+
+.service-36 .btn-success-gradiant {
+  background: #2cdd9b;
+  background: -webkit-linear-gradient(legacy-direction(to right), #2cdd9b 0%, #1dc8cc 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#2cdd9b), to(#1dc8cc));
+  background: -webkit-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+  background: -o-linear-gradient(left, #2cdd9b 0%, #1dc8cc 100%);
+  background: linear-gradient(to right, #2cdd9b 0%, #1dc8cc 100%);
+}
+
+.service-36 .btn-success-gradiant:hover {
+  background: #1dc8cc;
+  background: -webkit-linear-gradient(legacy-direction(to right), #1dc8cc 0%, #2cdd9b 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#1dc8cc), to(#2cdd9b));
+  background: -webkit-linear-gradient(left, #1dc8cc 0%, #2cdd9b 100%);
+  background: -o-linear-gradient(left, #1dc8cc 0%, #2cdd9b 100%);
+  background: linear-gradient(to right, #1dc8cc 0%, #2cdd9b 100%);
+}
+
+.service-36 .btn-md {
+  padding: 15px 45px;
+}
+
+.service-36 .stick-bottom {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.service-36 .stick-bottom>span {
+  width: 30px;
+  height: 2px;
+  position: absolute;
+  bottom: -7px;
+  left: 0px;
+  display: inline-block;
+}
